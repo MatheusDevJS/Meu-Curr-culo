@@ -1,0 +1,64 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    color: white;
+}
+
+html, body {
+    width: auto;
+}
+
+#corpo {
+    margin: auto;
+    width: 1200px;
+}
+
+/* 
+Configurações do topo 
+*/
+
+nav {
+    text-align: center;
+    padding-top: 18px;
+    font-size: 20px;
+}
+
+ul li {
+    display: inline;
+    padding-left: 30px; 
+}
+
+a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white; 
+}
+
+/*
+Configuração meio
+*/
+
+#ft-minha {
+    padding-top: 50px;
+    padding-right:40px ;
+    float: left;
+}
+
+
+#texto-1 {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 55px;
+}
+
+#texto-2 {
+    padding-top: 80px;
+    font-size: 25px;
+    text-align: center;
+}
+
+#caixa-texto  {
+    width: 80px;
+    height: 50px;
+    display: inline;
+}
